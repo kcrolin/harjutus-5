@@ -99,8 +99,5 @@ echo MAX_WIDTH; ?>
 <?php echo MAX_WIDTH; ?>
 
  
-
-
-
   </body>
 </html>
